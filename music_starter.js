@@ -10,6 +10,7 @@ function draw_one_frame(words, vocal, drum, bass, other, counter) {
    let bar_height = width / 12;
    let bar_pos_x = width / 2;
  
+   //changes
 
    // vocal bar is red
    fill(200, 0, 0);
