@@ -166,7 +166,6 @@ function draw_one_frame(words, vocal, drum, bass, other, counter) {
   strokeWeight(9);
 let lineSize=40 
 
-
 for(i = 0; i < 8; i++){
 push();
 translate(width/2, height/2);
