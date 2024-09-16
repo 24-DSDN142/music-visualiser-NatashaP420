@@ -1,4 +1,3 @@
-
 let lastWords = "...";
 let wordBrightness = 255;
 let yOffset = 0;
@@ -51,3 +50,4 @@ if(seconds > 0) {
   text(nf(seconds, 3, 2), 20, height-20);
 }
 }
+
